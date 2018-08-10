@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "App",
+    "version": "1.0.0",
+    "slug": "App",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.qwer"
+    },
+    "android": {
+      "package": "com.qwer"
+    }
+  }
+}
